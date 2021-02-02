@@ -27,7 +27,7 @@ Most kata's will come with a couple of test cases so you can print the values in
 <br>
 <br>
 
-# Difficulty Order: [high to low]
+## _Difficulty Order: [high to low]_
 
 <ul>
 <li>6 kyu</li>
@@ -36,4 +36,4 @@ Most kata's will come with a couple of test cases so you can print the values in
 </ul>
 
 <br>
-More kyu difficulty folders will be added as I progress through Codewars.
+More kata solutions and kyu difficulty folders will be added as I progress through Codewars.
