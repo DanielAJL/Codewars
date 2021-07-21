@@ -30,6 +30,7 @@ Most kata's will come with a couple of test cases so you can print the values in
 ## _Difficulty Order: [high to low]_
 
 <ul>
+<li>5 kyu</li>
 <li>6 kyu</li>
 <li>7 kyu</li>
 <li>8 kyu</li>
